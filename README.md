@@ -222,7 +222,7 @@ PS. Any MDB PRO license also includes access to **[visual navbar generator](http
 
 Popconfirm is a compact dialog alert. Use it to confirm/cancel a decision or display extra content like an explanation.
 
-**[Documentation, demo & tutorial](https://mdbootstrap.com/docs/standard/components/popconfirm/)**
+**[Documentation, demo & tutorial](https://mdbootstrap.com/docs/react/components/popconfirm/)**
 
 ---
 ![Rating](https://mdbcdn.b-cdn.net/img/press-pack/components-react/rating.jpg)
