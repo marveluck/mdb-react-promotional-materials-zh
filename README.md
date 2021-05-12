@@ -1,5 +1,5 @@
 
-![MDB Logo](https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-react.png)
+![MDB Logo](https://mdbootstrap.com/img/Marketing/general/logo/big/mdb-react.png)
 # React Bootstrap with Material Design
 
 MDB React PRO is a UI Kit that includes **thousands of components**, templates, plugins and integrations that will help you get the most out of your workflow.
